@@ -5,7 +5,7 @@ At generatum, we are dedicated to providing innovative and efficient technology 
 
 ## Our Services
 
-### Amazon Web Services (AWS)
+###☁️ Amazon Web Services (AWS)
 We leverage Amazon Web Services to offer you a robust cloud computing platform that ensures your applications run smoothly and reliably. Our AWS services include:
 
 *Computing*
@@ -35,19 +35,19 @@ We leverage Amazon Web Services to offer you a robust cloud computing platform t
 - IAM (Identity and Access Management): Manages access to AWS services and resources securely.
 - Cognito: Provides user identity and data synchronization services that help secure user access to apps.
 
-### Backend Development with Kotlin
+###🌀 Backend Development with Kotlin
 Our team of Kotlin experts brings fun and creativity to backend development. We specialize in:
 - building resilient server-side applications
 - integrating databases and APIs
 - crafting efficient, scalable code that powers your applications
 
-### Excel Automation with VBA
+###📊 Excel Automation with VBA
 Need to automate repetitive tasks in Excel? Our VBA programming service can help you:
 - develop custom Excel macros
 - automate data entry and processing
 - create complex functions and formulas to streamline your workflows
 
-### Static Website Development with Jekyll
+###🌐 Static Website Development with Jekyll
 We create lightweight, fast-loading static websites using Jekyll, ideal for:
 - personal blogs
 - project documentation websites
