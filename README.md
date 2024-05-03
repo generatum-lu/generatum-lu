@@ -8,30 +8,30 @@ At generatum, we are dedicated to providing innovative and efficient technology 
 ### Amazon Web Services (AWS)
 We leverage Amazon Web Services to offer you a robust cloud computing platform that ensures your applications run smoothly and reliably. Our AWS services include:
 
-Computing
+*Computing*
 - EC2 (Elastic Compute Cloud): Provides scalable computing capacity.
 - Lambda: Allows running code in response to events without managing servers.
 
-Storage
+*Storage*
 - S3 (Simple Storage Service): Object storage service with high scalability.
 - Glacier: Low-cost storage service for data archiving and long-term backup.
 
-Database Management
+*Database Management*
 - RDS (Relational Database Service): Simplifies setup, operation, and scaling of a relational database.
 - DynamoDB: NoSQL database service that supports key-value and document data structures.
 - Aurora: MySQL and PostgreSQL-compatible relational database with improved performance and scalability.
 
-Networking
+*Networking*
 - VPC (Virtual Private Cloud): Provides an isolated section of the Amazon Cloud where resources can be launched in a defined virtual network.
 - Route 53: Scalable Domain Name System (DNS) web service.
 - API Gateway: Allows developers to create, publish, maintain, monitor, and secure APIs.
 
-Machine Learning and Artificial Intelligence
+*Machine Learning and Artificial Intelligence*
 - Rekognition: Adds image and video analysis to applications.
 - Comprehend: Natural language processing (NLP) service that uses machine learning to find insights and relationships in text.
 - Polly: Service that converts text into lifelike speech.
 
-Security and Identity
+*Security and Identity*
 - IAM (Identity and Access Management): Manages access to AWS services and resources securely.
 - Cognito: Provides user identity and data synchronization services that help secure user access to apps.
 
