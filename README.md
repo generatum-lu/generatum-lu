@@ -1,4 +1,4 @@
-# Welcome to generatum
+# Welcome to generatum GmbH
 
 ## About Us
 At generatum, we are dedicated to providing innovative and efficient technology solutions for your business needs. With a focus on reliability, scalability, and cost-effectiveness, our team delivers top-notch services using some of the best tools and technologies available.
